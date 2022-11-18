@@ -3,7 +3,7 @@
 
 ![LCO](https://img.shields.io/badge/iNeuron-Course-important)
 
-![iNeuron](https://img.shields.io/badge/iNeuron-Course-important)
+![iNeuron](https://img.shields.io/badge/LCO-Course-important)
 
 ![Name](https://img.shields.io/badge/-CHANDRASEKHAR%20KOMMOJU-ff69b4)
 
